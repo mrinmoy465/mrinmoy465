@@ -17,8 +17,8 @@ AI made building easy. Distribution is now the hard part. I own the strategy, pi
 
 ### Currently
 
-Building small SEO and growth tools in public, one repo at a time.
+Vibe coding fun games and handy utility tools with Claude Code, one repo at a time.
 
 ### Connect
 
-[serpforge.io](https://serpforge.io)
+[LinkedIn](https://www.linkedin.com/in/mrin-moy-roy/) · [serpforge.io](https://serpforge.io)
